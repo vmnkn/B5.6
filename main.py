@@ -1,6 +1,6 @@
 def hello():
     print('--------------------')
-    print('------Weclome-------')
+    print('------Welcome-------')
     print('----to the game:----')
     print('----Tic-Tac-Toe-----')
     print('--------------------')
